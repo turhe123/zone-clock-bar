@@ -1,0 +1,24 @@
+{
+  "seo_title": "World clocks and calendar menu bar",
+  "seo_description": "Free, open-source macOS menu bar clock with a month calendar, upcoming events, world clocks and a time-zone slider for planning calls. Native, offline.",
+  "hero_title_line1": "Your menu bar clock,",
+  "hero_title_accent": "now with every timezone",
+  "hero_sub": "ZoneClockBar turns the menu bar clock into a month calendar, event list and world clocks. Click it, then drag the slider to find a call time that works across cities.",
+  "features_title": "Everything you need, nothing more.",
+  "features_sub": "A small native app that keeps your date, events and teammates' local times one click away.",
+  "features": [
+    {"icon": "clock", "title": "Configurable menu bar text", "desc": "Pick from 7 presets such as Tue 20 Oct 14:05 or write a custom date pattern, with a live preview. Pin any city's time next to the date."},
+    {"icon": "sliders", "title": "Time-travel slider", "desc": "Drag up to 12 hours either way in 15-minute steps and every city updates together. Hours between 9 and 17 are shaded."},
+    {"icon": "window", "title": "Month calendar popover", "desc": "Today is highlighted, with optional week numbers and a choice of first weekday. Arrow keys change month and T jumps back to today."},
+    {"icon": "bell", "title": "Upcoming events", "desc": "See events from the calendars you choose for the next 1 to 14 days, grouped by day with calendar colors. All-day and multi-day events are handled."},
+    {"icon": "clipboard", "title": "World clocks at a glance", "desc": "Each city shows local time, offset from your zone, a day offset like +1d and a sun or moon symbol. Click a city to copy its time."},
+    {"icon": "bolt", "title": "Accurate and lightweight", "desc": "Refreshes on the minute, after wake from sleep, and when the system clock or time zone changes. A daylight saving marker appears when a city shifts within seven days."}
+  ],
+  "permissions_step": "When prompted, grant Calendar access (optional, only needed to show events) in System Settings → Privacy & Security → Calendars.",
+  "faq": [
+    {"q": "Is ZoneClockBar really free and open source?", "a": "Yes. It is free to use and released under the MIT license, with the full source on GitHub. There are no ads, accounts or paid tiers, and an optional Ko-fi button is there if you want to support development."},
+    {"q": "What permissions does it need?", "a": "Only read-only access to your calendars, used to list upcoming events. You can deny it and the clocks and calendar grid keep working. It asks for nothing else and makes no network connections."},
+    {"q": "Where is my data stored?", "a": "Your clocks and settings are saved locally on your Mac in the app's preferences. Events are read from your calendars on demand and are never copied or sent anywhere."},
+    {"q": "Why isn't the app notarized?", "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."}
+  ]
+}

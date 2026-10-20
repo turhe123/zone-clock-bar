@@ -1,5 +1,7 @@
 # ZoneClockBar
 
+**🌐 Website:** [turhe123.github.io/zone-clock-bar](https://turhe123.github.io/zone-clock-bar/)
+
 A menu bar calendar with world clocks, upcoming events and a time-zone slider for planning calls across cities.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -28,7 +30,21 @@ ZoneClockBar is a free, open-source, 100% native, backend-free alternative to pa
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-popover.png" alt="ZoneClockBar popover with October calendar and clocks for New York, London, Tokyo and San Francisco" width="720"></p>
+
+<p align="center"><em>Click the menu bar clock to open a month calendar with today highlighted and live world clocks for every city you work with.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-time-travel.png" alt="Popover with the slider at +6:00 and New York and San Francisco shaded as business hours" width="560"></p>
+
+<p align="center"><em>Drag the time-travel slider to shift every city together and see who is inside business hours, with day offsets like +1d.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-settings-menu-bar.png" alt="Settings window, Menu Bar tab with format preset, custom pattern and preview" width="560"></p>
+
+<p align="center"><em>Choose a menu bar date format from presets or a custom pattern, with a live preview.</em></p>
+
+<p align="center"><img src="docs/screenshots/04-settings-clocks.png" alt="Settings window, Clocks tab listing four cities with menu bar checkboxes and reorder buttons" width="560"></p>
+
+<p align="center"><em>Search for cities to add, rename and reorder clocks, and pin any of them to the menu bar.</em></p>
 
 ## Install
 

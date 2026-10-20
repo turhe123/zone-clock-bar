@@ -1,0 +1,6 @@
+[
+  {"file":"01-popover.png","caption":"Click the menu bar clock to open a month calendar with today highlighted and live world clocks for every city you work with.","alt":"ZoneClockBar popover with October calendar and clocks for New York, London, Tokyo and San Francisco"},
+  {"file":"02-time-travel.png","caption":"Drag the time-travel slider to shift every city together and see who is inside business hours, with day offsets like +1d.","alt":"Popover with the slider at +6:00 and New York and San Francisco shaded as business hours"},
+  {"file":"03-settings-menu-bar.png","caption":"Choose a menu bar date format from presets or a custom pattern, with a live preview.","alt":"Settings window, Menu Bar tab with format preset, custom pattern and preview"},
+  {"file":"04-settings-clocks.png","caption":"Search for cities to add, rename and reorder clocks, and pin any of them to the menu bar.","alt":"Settings window, Clocks tab listing four cities with menu bar checkboxes and reorder buttons"}
+]
